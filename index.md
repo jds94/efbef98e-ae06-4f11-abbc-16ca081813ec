@@ -25,3 +25,7 @@ Hat Edda vielleicht Lust zu tanzen?
 ***
 
 Genießt den Nachmittag zusammen - und hoffentlich kann Mama nachher zum Sport!  Ich denk an euch - Papabär 🐻
+
+*** 
+
+PS: Das nächste Versteck ist: in Eddas Schrank auf der linken Seite!
