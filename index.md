@@ -1,5 +1,3 @@
-# Montag Mittag, bald ist es geschafft!
-
 Hallo meine liebsten Mausis!
 
 Inzwischen ist Edda wohl wieder aus der Kita zurück, vielleicht schläft sie auch schon?
