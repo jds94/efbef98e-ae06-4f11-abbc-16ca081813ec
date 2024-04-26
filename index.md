@@ -14,13 +14,13 @@ Nehmt euch doch kurz die Zeit und denkt an diesen tollen Tag zurück. Das ist sc
 
 Ist dir eigentlich klar, dass du mir alles im Leben bedeutest und ich eigentlich nur dich (und deine kleine Edda) brauche, um glücklich zu sein?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AWOhx6R6Rhg?si=MXpjjAVQmrww4gC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="169" src="https://www.youtube.com/embed/AWOhx6R6Rhg?si=MXpjjAVQmrww4gC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Song für Edda
 Hat Edda vielleicht Lust zu tanzen? 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epux_7utGkY?si=dOn4BM1DZovCU6DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="169" src="https://www.youtube.com/embed/epux_7utGkY?si=dOn4BM1DZovCU6DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ***
 
